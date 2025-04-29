@@ -1,9 +1,5 @@
 # Resume Page 
-This project is a static resume website. Open [bellafang.github.io](https://yhfang520.github.io/bellafang.github.io/) to view the browswer. 
-
-## Introduction 
-
-This resume website is designed to be visually appealing and functional on a variety of devices including desktops and mobile devices. This is in addition to animation features and smooth scrolling.
+This project is a static resume website. Open [LeonaHaopu.github.io](https://leonahaopu.github.io/) to view in the browswer. 
 
 #### Featrue: 
 - Mobile Responsiveness:
